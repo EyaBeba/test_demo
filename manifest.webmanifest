@@ -1,4 +1,5 @@
 {
+  "id": "./?app=voice-journal-v1",
   "name": "Voice Journal",
   "short_name": "Journal",
   "description": "A private voice journal that works offline. Recordings never leave your device.",
